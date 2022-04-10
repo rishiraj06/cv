@@ -13,7 +13,7 @@ background-color:#66BFBF;
 
 
 hr{
-    border-style:none;
+    border-style:groove;
     border-top-style:none;
     border-color:grey;
     border-width: 5px;
